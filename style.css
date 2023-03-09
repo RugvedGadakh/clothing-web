@@ -1,0 +1,98 @@
+body{
+    background: #cfd5d5;
+    /* text-align: center; */
+}
+
+/* navbar */
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-brand{
+    padding-left: 20px;
+    margin-right: 200px;
+}
+
+
+/* title */
+.title-img{
+
+    width: 100%;
+
+}
+
+/* feature-1 */
+#features{
+
+    padding-top: 10px;
+    margin: 0;
+
+}
+
+.feature-head{
+    margin: 0;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.pic{
+    padding: 20px 60px;
+}
+.card{
+    width: 18rem;
+
+}
+
+
+@media (max-width : 900px){
+    .card{
+        width: 100%;
+    }
+    .pic{
+        padding: 7px 10px;
+        text-align: center;
+        width: 50%;
+    }
+}
+
+
+.card-text{
+    text-align: center;
+}
+
+
+.traditional{
+    padding-bottom: 2.5rem;
+}
+
+
+/* feature2 */
+#feature-2{
+    background-color: white;
+}
+
+.casual{
+    background: #f2f0ed;
+    padding-bottom: 2.5rem;
+}
+.feature2-head{
+    margin: 0;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+    background: #f2f0ed;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+    margin: 75px 10px;
+}
+.social-icon{
+    color: rgba(0, 0, 0, 0.774);
+    margin: 20px 20px;
+}
