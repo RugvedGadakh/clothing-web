@@ -75,6 +75,7 @@ body{
 }
 
 .casual{
+    margin: 0;
     background: #f2f0ed;
     padding-bottom: 2.5rem;
 }
